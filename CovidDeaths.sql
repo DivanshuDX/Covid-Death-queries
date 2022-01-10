@@ -2,9 +2,9 @@ SELECT *
 FROM PortfolioProject..CovidDeaths
 order by 3, 4
 
---Select *
---from PortfolioProject..CovidVaccinations
---order by 3, 4
+Select *
+from PortfolioProject..CovidVaccinations
+order by 3, 4
 
 -- 1.Comparing total deaths per total cases
 
